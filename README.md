@@ -1,6 +1,6 @@
 # いろタイル工房 〜ふーさんの宮殿の壁〜
 
-▶ **あそぶ: https://ryowatanabe1161-svg.github.io/iro-tile-koubou/**
+▶ **あそぶ: https://fuusan-games.github.io/iro-tile-koubou/**
 
 5色のタイルを工房から取り合い、自分の壁を仕上げるオンライン対戦ゲーム（2〜4人、空いた席は ふーさん🐻）。
 スマホ・PC対応、日本語UI。サーバー不要（静的ファイル＋PeerJSのP2P）。
@@ -25,4 +25,4 @@
 ## ふーさん🐻（CPU）
 - 弱い：ほぼランダム（床は避ける）。普通：その場の得点・完成・床減点の貪欲法。強い：上位候補をラウンド終わりまで先読み（簡易モンテカルロ）＋列・色ボーナスの見込み。
 
-オリジナルの名称・絵柄です。ほかのふーさんゲームは [ふーさんのゲームひろば](https://ryowatanabe1161-svg.github.io/fuusan-games/) から。
+オリジナルの名称・絵柄です。ほかのふーさんゲームは [ふーさんのゲームひろば](https://fuusan-games.github.io/fuusan-games/) から。
